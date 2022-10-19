@@ -5,4 +5,4 @@ We have compared state-of-the-art transformer language models such as BERT-multi
 
 ### Guide:
 
-[Complete NLP https://github.com/sarmad9987/Urdu-news-sentiment-analysis-for-trading-in-Karachi-Stock-exchange/blob/main/Model%20training/Model%20training%20.ipynb ]
+[Complete NLP] (https://github.com/sarmad9987/Urdu-news-sentiment-analysis-for-trading-in-Karachi-Stock-exchange/blob/main/Model%20training/Model%20training%20.ipynb)
