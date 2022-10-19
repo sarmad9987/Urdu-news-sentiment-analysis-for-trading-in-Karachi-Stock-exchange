@@ -61,4 +61,4 @@ Visualization of Urdu keywords in our dataset and also their English translation
 
 
 
-* ![Screenshot 2022-10-16 195439](https://user-images.githubusercontent.com/90148389/196811326-8c0f68f9-796f-44ee-b3a3-31b78c4a2187.jpg)
+ ![Screenshot 2022-10-16 195439](https://user-images.githubusercontent.com/90148389/196811326-8c0f68f9-796f-44ee-b3a3-31b78c4a2187.jpg)
