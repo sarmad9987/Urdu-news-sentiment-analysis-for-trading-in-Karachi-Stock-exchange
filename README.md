@@ -56,8 +56,8 @@ Visualization of Urdu keywords in our dataset and also their English translation
 
 
 
-*                                         **English translated keywords**
-
+*                                              English translated keywords
+ 
 
 
 
