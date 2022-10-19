@@ -6,9 +6,9 @@ We have compared state-of-the-art transformer language models such as BERT-multi
 
 ## Datasets:
 
-* We used manually annotated urdu news headlines instances for model training and evaluation.
+* 3985 Urdu news headlines instances were manually annotated by us for model training and evaluation.
 
-* 79057 unlabelled instances of Urdu news headlines dataset for predcition by our trained models.
+* 79057 unlabelled instances of Urdu news headlines dataset were extracted for sentiments prediction by our trained models to be used as trading signals for KSE-100 index.
 
 Urdu news headlines were extracted for this project from this [Dataset](https://data.mendeley.com/datasets/834vsxnb99/3)
 
