@@ -71,5 +71,5 @@ Visualization of Urdu keywords in our dataset and also their English translation
 
 
 
-
+## Note
 This project is part of my thesis, I have included complete analysis and results. This required a lot of hardwork and patience, Please do like my work. 
