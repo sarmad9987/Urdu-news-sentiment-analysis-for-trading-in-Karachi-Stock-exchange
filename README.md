@@ -34,26 +34,26 @@ Complete workflow of the project is given below:
 
 This is just to mention what libraries and frameworks were used to complete this project.
 
-* Pandas for analysis
+* **Pandas** for analysis
 
-* Urduhack for text pre-processing
+* **Urduhack** for text pre-processing
 
-* Tensorflow for deep learning models training 
+* **Tensorflow** for deep learning models training 
 
-* Keras (Python deep learnign API)
+* **Keras (Python deep learnign API)**
 
-* Hugging face transformers
+* **Hugging face transformers**
 
-* Yake (yet another keyword extractor) for keyword extraction
+* **Yake** (yet another keyword extractor) for keyword extraction
 
-* Wordcloud for Python for data visualization
+* **Wordcloud** for Python for data visualization
 
 
 ## keywords visualization
 
 Visualization of Urdu keywords in our dataset and also their English translation for non-Urdu speakers.
 
-*                                                    Urdu keywords
+*                                                    **Wordcloud of Urdu keywords**
 
 
 
@@ -62,7 +62,7 @@ Visualization of Urdu keywords in our dataset and also their English translation
 
 
 
-*                                              English translated keywords
+*                                              **Wordcloud of English translated keywords**
  
 
 
