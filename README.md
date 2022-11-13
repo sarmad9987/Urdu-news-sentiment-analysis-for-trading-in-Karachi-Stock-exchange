@@ -53,7 +53,7 @@ This is just to mention what libraries and frameworks were used to complete this
 
 Visualization of Urdu keywords in our dataset and also their English translation for non-Urdu speakers.
 
-*                                                    **Wordcloud of Urdu keywords**
+*                                                    Wordcloud of Urdu keywords
 
 
 
@@ -62,7 +62,7 @@ Visualization of Urdu keywords in our dataset and also their English translation
 
 
 
-*                                              **Wordcloud of English translated keywords**
+*                                              Wordcloud of English translated keywords
  
 
 
