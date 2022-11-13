@@ -14,7 +14,7 @@ Urdu news headlines were extracted for this project from this [Dataset](https://
 
 ## Workflow
 
-Complete workflow of the project is given below:
+**Complete workflow of the project is given below:**
 
 **1.** **Pre-processing to models training:** [click here for code](https://github.com/sarmad9987/Urdu-news-sentiment-analysis-for-trading-in-Karachi-Stock-exchange/blob/main/Model%20training/Model%20training%20.ipynb)
 
