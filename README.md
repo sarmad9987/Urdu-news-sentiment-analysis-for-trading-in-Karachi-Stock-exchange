@@ -4,7 +4,7 @@
 ## Introduction:
 We have compared state-of-the-art transformer language models such as BERT-multilingual and Roberta-Urdu-small in this project to see if large multilingual language models have an advantage over the monolingual language models in text classification/sentiment analysis. We have proposed our own classifier model in which we have combined transformer language models with Convolution neural networks (CNN). The last hidden state of the transformer was fed to Conv-1D layer and then softmax activation function was applied for multiclass-classification. The predicted sentiments were then used as trading signals to trade in karachi stocks and observe the returns. 
 
-## Proposed transformer-CNN classifier:
+# Proposed transformer-CNN classifier:
 ![Screenshot 2022-12-29 174711](https://user-images.githubusercontent.com/90148389/209990523-f6aecb6e-cbd1-4752-a8be-1cef526cee9e.png)
 
 
